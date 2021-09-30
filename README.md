@@ -1,2 +1,8 @@
 # vernam_cipher
-vernam cipher realisation
+vernam cipher realisation for cli
+
+Написано на Python 3.9
+Работа с консолью:
+en - зашифровать (key - ключ, text - текст)
+de - расшифровать (key - ключ, text - текст)
+ca - криптоанализ (key - ключ (так как алгоритм с абсолютной стойкостью, то для подтверждения нахождения текста нужно знать ключ))
