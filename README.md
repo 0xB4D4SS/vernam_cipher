@@ -1,7 +1,7 @@
 # vernam_cipher
 vernam cipher realisation for cli
 
-Написано на Python 3.9
+Написано на Python 3.9;
 Работа с консолью:
 en - зашифровать (key - ключ, text - текст)
 de - расшифровать (key - ключ, text - текст)
